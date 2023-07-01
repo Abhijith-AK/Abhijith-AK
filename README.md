@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhijith-AK
 - 👀 I’m interested in Coding,Full Stack Web Dev,DevOps,CyberSecurity And more..
-- 🌱 I’m currently learning MEARN,Flutter,Python,CyberSecurity And more ...
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me <MAIL:-abhijithkrishnaofficial@gmail.com>
 

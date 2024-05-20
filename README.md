@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhijith-AK
-- 👀 I’m interested in Coding,Full Stack Web Dev,DevOps,CyberSecurity And more..
+- 👀 I’m interested in Mobile Application Development 
 - 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate on .....
+- 💞️ I’m looking to collaborate on All related projects 
 - 📫 How to reach me <MAIL:-abhijithkrishnaofficial@gmail.com>
 
 <!---

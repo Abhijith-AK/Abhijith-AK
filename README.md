@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN FullStack Development<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning MEARN stack
+🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on Web Development<br>🌱 I’m currently learning MEARN stack
 
 
 ## 🌐 Socials:
